@@ -1,4 +1,4 @@
 # ContentStoreAdmin
 Proof of concept for MVC + DocumentDB
 
-More content to be added
+<More content to be added>
